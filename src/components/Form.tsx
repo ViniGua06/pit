@@ -9,7 +9,7 @@ const Form = (opt: IForm) => {
     return (
       <>
         <form id="formLogin">
-          <label>Email</label>
+          <label>Jaca</label>
           <input type="email" />
           <label>Senha</label>
           <input type="password" />
